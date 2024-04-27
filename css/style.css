@@ -1,0 +1,29 @@
+@media (min-width: 500px) {
+    .vsm\:hidden {
+        display: none;
+    }
+
+    .vsm\:flex {
+        display: flex;
+    }
+
+    .xl\:w-11\/12 {
+        width: 91.666667%;
+    }
+
+    .vsm\:top-0 {
+        top: 0px;
+    }
+
+    .vsm\:mb-0 {
+        margin-bottom: 0px;
+    }
+
+    .vsm\:w-5 {
+        margin-bottom: 20px;
+    }
+}
+
+.text-vsm {
+    font-size: 10px;
+}
